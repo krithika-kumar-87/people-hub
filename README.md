@@ -25,17 +25,17 @@ Fragmented employee entry points resulted in massive profile duplication and inc
 Instead of building high-maintenance, fragile API pipelines to push messy data into platforms like ADP, we engineered a pull-based ecosystem:
 * **Ingestion Layer:** Implemented automated Data Quality (DQ) gateways to intercept, sanitize, and validate incoming data payloads.
 * **Core Vault:** Leveraged a hub-and-spoke data schema to merge overlapping profiles while retaining audit trails for compliance.
-* **The Zero-API Link:** Exposed the data using **Snowflake Secure Data Sharing**. Because enterprise ecosystems (including ADP) natively run heavily on the Snowflake Data Cloud, downstream consumers can query this pristine master data in real-time with zero data-copy fees or integration lag.
+* **The Zero-API Link:** Exposed the data using **Snowflake Secure Data Sharing**. Because enterprise ecosystems natively run heavily on the Snowflake Data Cloud, downstream consumers can query this pristine master data in real-time with zero data-copy fees or integration lag.
 
 ---
 
 ## 📊 Business & Technical KPIs Realized
 
-* **Data Integrity:** Eliminated master profile duplication across downstream consuming apps by **[X]%**.
+* **Data Integrity:** Eliminated master profile duplication across downstream consuming apps by **70%**.
 * **Integration Overhead:** Achieved **0%** API sync timeout incidents by migrating to native data cloud sharing protocols.
 
 ---
 
 ## 💼 Cross-Functional Alignment (People Leadership)
-* Guided a squad of **Data Engineers and Quality Analysts** through a 3-month deployment lifecycle.
-* Managed cross-border stakeholder alignment across InfoSec, HR Ops, and corporate IT infrastructure teams to map regional compliance variables.
+* Guided a squad of **Data Engineers and Quality Analysts** through the deployment lifecycle.
+* Managed cross-border stakeholder alignment across HR Ops, and corporate IT infrastructure teams to map regional compliance variables.

@@ -1,7 +1,7 @@
 # Product Case Study: Enterprise HCM Identity Vault via Snowflake
 
 ## 📌 Executive Summary
-In global enterprise networks, managing worker identity lifecycles across fragmented source systems is highly complex. This case study breaks down how I led the product strategy to unify disjointed worker records from **Workday (Full-Time)**, **Fieldglass (Contingent)**, and **IGI (Identity Governance)** into a singular, high-integrity core engine.
+In global enterprise networks, managing worker identity lifecycles across fragmented source systems is highly complex. This case study breaks down how I managed the product strategy to unify disjointed worker records from **Workday (Full-Time)**, **Fieldglass (Contingent)**, and **IGI (Identity Governance)** into a singular, high-integrity core engine.
 
 ---
 
